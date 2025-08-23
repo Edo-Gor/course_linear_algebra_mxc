@@ -1,18 +1,25 @@
-# Calculus 1
+# Linear algebra
 
 ## Repository description
 
-This repository contains code related to the Calculus 1 course by Mike X. Cohen on Udemy:
+This repository contains code related to the Linear Algebra course by Mike X. Cohen on Udemy:
 
-[Master calculus 1 using Python: derivatives and applications](https://www.udemy.com/course/pycalc1_x)
+[Master linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation)
 
-The code in this repository is developed to solve the exercises provided along the course, and it has been written partially indepentently and partially from the code provided by the course instructor.
+The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it. The "code challenges" files contain more of my own contributions, where I added creative input beyond the provided material.
 
 ## Structure
 
-- Section 03 : Functions
-- Section 05 : Limits
-- Section 07 : Differentiation fundamentals
-- Section 09 : [...]
-- Section 11 : [...]
-- Section 23 : [...]
+- Section 03 : Vectors
+- Section 04 : Introduction to matrices
+- Section 05 : Matrix multiplication
+- Section 06 : Matrix rank
+- Section 07 : Matrix spaces
+- Section 08 : Solving systems of equations
+- Section 09 : Matrix determinant
+- Section 10 : Matrix inverse
+- Section 11 : Projections and orthogonalisation
+- Section 12 : Least-squares for model fitting in statistics
+- Section 13 : Eigendecomposition
+- Section 14 : Singular value decomposition
+- Section 15 : Quadratic form and definiteness
