@@ -6,7 +6,7 @@ This repository contains code related to the Linear Algebra course by Mike X. Co
 
 [Master linear algebra: theory and implementation in code](https://www.udemy.com/course/linear-algebra-theory-and-implementation)
 
-The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it. The "code challenges" files contain more of my own contributions, where I added creative input beyond the provided material.
+The majority of the "base" code is adapted from material developed by the course instructor. I have made minor modifications to experiment with it. The "code challenges" and "exercises" files contain more of my own contributions, where I added creative input beyond the provided material.
 
 ## Structure
 
